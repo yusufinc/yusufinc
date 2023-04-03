@@ -1,4 +1,4 @@
-                                                               #Hi 👋, I'm Yusuf
+                                                               ### Hi 👋, I'm Yusuf
 I am a third-year Management Information Systems student with a passion for software, technology, and computer systems.<br>I am proficient in technologies such as HTML, CSS, Bootstrap, and JS, as well as C# and OOP concepts. Additionally,<br>I have knowledge of MSSQL and T-SQL.<br><br>My area of interest is ensuring that technologies work dynamically with each other, <br>and I continuously work to improve my skills in this area. I am a self-motivated individual and always strive to do my best in achieving my goals.
 
 
